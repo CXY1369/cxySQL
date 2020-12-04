@@ -1,8 +1,10 @@
 # cxySQL
- Database Engine_a relational database management system
+
 @Author: Xingyu Chen
-//Project: Database Management System engine design
-//Date    : 2020-08
+=====================================
+Project Description: Database Engine_a relational database management system
+=====================================
+Date    : 2020-08
 =====================================
 //Developing Platform: Eclipse 2019
 // java version "1.8.0_212"
@@ -25,6 +27,7 @@ Notice: Do Not use Tinybyte, Small Int, Int , BigInt, Real
             There must be space in the conditional WHERE clause !!!
 
 =======================================
+
 Current supporting Operations & Syntax (Insensitive to letter case)
 
 1. To see all the table files existing in the database
